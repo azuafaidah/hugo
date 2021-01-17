@@ -1,4 +1,4 @@
-baseURL = "https://fishrecipe.netlify.app/"
+baseURL = "https://hugo-pkt6wxdp9.vercel.app/"
 languageCode = "en-us"
 title = "Delicious Recipe"
 theme = "x"
